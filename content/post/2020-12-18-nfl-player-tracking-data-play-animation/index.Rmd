@@ -1,0 +1,8 @@
+---
+title: 'NFL Player Tracking Data: Play Animation'
+author: Eric
+date: '2020-12-18'
+slug: nfl-player-tracking-data-play-animation
+categories: []
+tags: []
+---

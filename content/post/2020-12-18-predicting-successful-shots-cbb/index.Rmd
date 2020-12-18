@@ -1,0 +1,8 @@
+---
+title: Predicting Successful Shots (CBB)
+author: Eric
+date: '2020-12-18'
+slug: predicting-successful-shots-cbb
+categories: []
+tags: []
+---

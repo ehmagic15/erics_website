@@ -1,0 +1,8 @@
+---
+title: 'FAANG vs SPY: Correlation Analysis'
+author: Eric
+date: '2020-12-18'
+slug: faang-vs-spy-correlation-analysis
+categories: []
+tags: []
+---
